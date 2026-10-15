@@ -1,0 +1,46 @@
+Apps Testing:           
+            
+
+              Retry Logic daalna hai IP and gaid k liye
+
+1) Sport Watch
+2) Wicket Watch Premium 
+3) Watch Elite
+
+3) Research hub Campaign
+4) Research hub play store
+
+5) Al-Noor Campaign
+6) Al-Noor Playstore     -- Done
+
+7) talash-e-vibe
+8) Parental Control
+
+
+
+ com.holaworld.alnoor
+ com.holaworld.alnoor
+
+
+
+
+9.10L
+11.09L(Turbo)
+
+
+8.99L
+11.82L
+
+
+
+
+
+
+
+Osnit:
+1) Force Update
+
+
+
+
+
